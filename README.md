@@ -54,6 +54,10 @@ Here are some ideas to get you started:
 
 ## Connect with me:  
 <div align="center">
+<a href="mailto:vinayjose1510@gmail.com" target="_blank">
+<img src="https://raw.githubusercontent.com/ma-shamshiri/ma-shamshiri/main/images/contacts/email.svg" alt="email" 
+style="margin-bottom: 5px;" />
+</a>
 <a href="https://linkedin.com/in/kxvinayjose" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
