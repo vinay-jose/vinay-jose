@@ -74,7 +74,9 @@ Here are some ideas to get you started:
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a>
-and special thank to <a href="https://github.com/ma-shamshiri/ma-shamshiri" target="_blank">Mohammad Shamshiri</a></div>
+<div align="center">
+This readme file was generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a>
+and special thanks to <a href="https://github.com/ma-shamshiri/ma-shamshiri" target="_blank">Mohammad Shamshiri</a>.
+</div>
 
 <!--END_SECTION:waka-->
