@@ -54,19 +54,12 @@ Here are some ideas to get you started:
 
 ## Connect with me:  
 <div align="center">
-<a href="mailto:vinayjose1510@gmail.com" target="_blank">
-<img src="https://raw.githubusercontent.com/ma-shamshiri/ma-shamshiri/main/images/contacts/email.svg" alt="email" 
-style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/kxvinayjose" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/vinay-jose" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.kaggle.com/vinayjose" target="_blank">
-<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
-</a>
+	<a href="mailto:vinayjose@gmail.com" target="_blank">
+		<img align="center" src="https://raw.githubusercontent.com/ma-shamshiri/ma-shamshiri/main/images/contacts/email.svg" alt="email" height="40" width="40" />
+	</a>
+	<a href="https://www.linkedin.com/in/kxvinayjose/" target="_blank">
+		<img align="center" src="https://raw.githubusercontent.com/ma-shamshiri/ma-shamshiri/main/images/contacts/linkedin.svg" alt="linkedin" height="40" width="40" />
+    </a>
 </div>  
   
 <!---
@@ -81,6 +74,7 @@ style="margin-bottom: 5px;" />
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a>
+and special thank to <a href="https://github.com/ma-shamshiri/ma-shamshiri" target="_blank">Mohammad Shamshiri</a></div>
 
 <!--END_SECTION:waka-->
