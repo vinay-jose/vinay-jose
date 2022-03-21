@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 </div>  
   
 
-### <div align="center">An experienced professional in Automotive Industry 👷🏿‍♂️ and an AI enthusiast .</div>  
+### <div align="center">I am K X Vinay Jose, an experienced professional in the Automotive Industry 👷🏿‍♂️ and an AI enthusiast .</div>  
   
 
 - ⚙️I’m currently an SMTE at Tata Motors Limited, Pune.  
