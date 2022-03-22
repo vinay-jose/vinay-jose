@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 </div>  
   
 
-### <div align="center">I am K X Vinay Jose, an experienced professional in the Automotive Industry 👷🏿‍♂️ and an AI enthusiast .</div>  
+### <div align="center">I am K X Vinay Jose, an experienced professional in the Automotive Industry 👷🏿‍♂️ and an AI practitioner.</div>  
   
 
 - ⚙️I’m currently an SMTE at Tata Motors Limited, Pune.  
@@ -75,8 +75,9 @@ Here are some ideas to get you started:
 
 ----
 <div align="center">
-This readme file was generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a>
-and special thanks to <a href="https://github.com/ma-shamshiri/ma-shamshiri" target="_blank">Mohammad Shamshiri</a>.
+This readme file was generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a>.
+<br>
+Also, special thanks to <a href="https://github.com/ma-shamshiri/ma-shamshiri" target="_blank">Mohammad Shamshiri</a>.
 </div>
 
 <!--END_SECTION:waka-->
