@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 ### <div align="center">I am K X Vinay Jose, an experienced professional in the Automotive Industry 👷🏿‍♂️ and an AI practitioner.</div>  
   
 
-- ⚙️I’m currently an SMTE at Tata Motors Limited, Pune.  
-  
+- ⚙️I’m currently an SMTE at Tata Motors Limited, Pune.    
 
-- ⚡ Delving into ML and DL problems.  
-  
+- ⚡Delving into ML and DL projects.  
+
+- ♂ Pronouns: He/Him
 
 <br/>  
 
