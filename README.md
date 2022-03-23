@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - ⚡Delving into ML and DL projects.  
 
-- ♂ Pronouns: He/Him
+- ♂ He/Him
 
 <br/>  
 
