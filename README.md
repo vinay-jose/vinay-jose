@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <br/>  
 
 
-## My Skill Set:
+## Languages and Tools:
 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
