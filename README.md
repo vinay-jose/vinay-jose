@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 </div>  
   
 
-### <div align="center">I am K X Vinay Jose, a Software Engineer at an emerging Tech Startup 👷🏿‍♂️ and an AI practitioner.</div>  
+### <div align="center">I am K X Vinay Jose, a Software Engineer and an AI practitioner.</div>  
   
 
 - ⚙️I’m currently a Senior Software Engineer at Hyreo Inc., Thiruvananthapuram.    
