@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 ## Connect with me:  
 <div align="center">
 	<a href="mailto:vinayjose1510@gmail.com" target="_blank">
-		<img src="https://img.shields.io/badge/%F0%9F%93%A7-gmail-red?&style=for-the-badge&logo=email&logoColor=white" alt=email style="margin-bottom: 5px;" />
+		<img src="https://img.shields.io/badge/%E2%9C%89-e--mail-red?&style=for-the-badge&logo=email&logoColor=white" alt=email style="margin-bottom: 5px;" />
 	</a>
 	<a href="https://www.linkedin.com/in/kxvinayjose/" target="_blank">
 		<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;" />
