@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 		<img align="center" src="https://raw.githubusercontent.com/ma-shamshiri/ma-shamshiri/main/images/contacts/email.svg" alt="email" height="40" width="40" />
 	</a>
 	<a href="https://www.linkedin.com/in/kxvinayjose/" target="_blank">
-		<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+		<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;" />
     </a>
 </div>  
   
