@@ -21,9 +21,11 @@ Here are some ideas to get you started:
 ### <div align="center">I am K X Vinay Jose, a Software Engineer and an AI Practitioner.</div>  
   
 
-- ⚙️I’m currently a Senior Software Engineer at Hyreo Inc., Thiruvananthapuram.    
+- ⚙️I’m currently a Senior Software Engineer at Hyreo Inc., Thiruvananthapuram.
 
-- ⚡Deep-diving into Generative AI models for NLP problems.  
+- ⚡Deep-diving into LLMs & Generative models to solve Conversational AI problems.
+
+- 🔭Working on a personal portfolio website to learn frontend development.
 
 - ♂ He/Him
 
