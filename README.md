@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 <br/>  
 
-## <div align="center">Programming Skills:</div>  
+## <div align="center">Programming Skills</div>  
 
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a> 
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 </div>
 <br/>  
 
-## Technologies & Tools:
+## <div align="center">Technologies & Tools</div>
 
 <div align="center">   
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 
 <br/>  
 
-## Frameworks:
+## <div align="center">Frameworks</div>
 
 <div align="center">    
 <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 <a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
 </div>
 
-## Connect with me:  
+## <div align="center">Connect with me</div>  
 <div align="center">
 	<a href="mailto:vinayjose1510@gmail.com" target="_blank">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=gmail style="margin-bottom: 5px;" />
