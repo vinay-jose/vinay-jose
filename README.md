@@ -25,7 +25,7 @@ Some ideas to get started:
 
 - ⚡Deep-diving into LLMs & Generative models to solve Conversational AI problems.
 
-- 🔭Working on a personal <a href="https://vinay-jose.github.io/" target="_blank" rel="noreferrer">portfolio website</a>  to learn frontend development.
+- 🔭Working on a personal <a href="https://vinayjose.com/" target="_blank" rel="noreferrer">portfolio website</a>  to learn frontend development.
 
 - ♂ He/Him
 
