@@ -21,9 +21,9 @@ Some ideas to get started:
 ### <div align="center">I am K X Vinay Jose, a Software Engineer and an AI Practitioner.</div>  
   
 
-- ⚙️I’m currently a Senior Software Engineer at Hyreo Inc., Thiruvananthapuram.
+- ⚙️I’m a Software Engineer at Dbiz.AI, Bangalore.
 
-- ⚡Deep-diving into LLMs & Generative models to solve Conversational AI problems.
+- ⚡Deep-diving into LLMs & Multi-Agent Systems to build autonomous assistants.
 
 - 🔭Working on a personal <a href="https://vinayjose.com/" target="_blank" rel="noreferrer">portfolio website</a>  to learn frontend development.
 
