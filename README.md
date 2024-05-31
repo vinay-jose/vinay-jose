@@ -23,9 +23,9 @@ Some ideas to get started:
 
 - ⚙️I’m a Software Engineer at Dbiz.AI, Bangalore.
 
-- ⚡Deep-diving into LLMs & Multi-Agent Systems to build autonomous assistants.
+- ⚡Deep-diving into Gen AI & RAG Systems.
 
-- 🔭Working on a personal <a href="https://vinayjose.com/" target="_blank" rel="noreferrer">portfolio website</a>  to learn frontend development.
+- 🔭Working on a personal <a href="https://vinayjose.com/" target="_blank" rel="noreferrer">portfolio website & blog</a>  to learn frontend development.
 
 - ♂ He/Him
 
