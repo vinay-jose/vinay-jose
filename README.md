@@ -24,8 +24,6 @@ Some ideas to get started:
 - ⚙️I’m a Consultant ML Engineer at Mercedes-Benz RDI, Bangalore.
 
 - ⚡Deep-diving into Gen AI & RAG Systems.
-  
-- 😄 Pronouns: He/him
 
 <!--
 - 🔭Working on a personal <a href="https://vinayjose.com/" target="_blank" rel="noreferrer">portfolio website & blog</a>  to learn frontend development.
