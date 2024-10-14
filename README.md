@@ -21,9 +21,11 @@ Some ideas to get started:
 ### <div align="center">I am K X Vinay Jose, a Software Engineer and an AI Practitioner.</div>  
   
 
-- ⚙️I’m a Software Engineer at Dbiz Labs, Bangalore.
+- ⚙️I’m a Consultant ML Engineer at Mercedes-Benz RDI, Bangalore.
 
 - ⚡Deep-diving into Gen AI & RAG Systems.
+  
+- 😄 Pronouns: He/him
 
 <!--
 - 🔭Working on a personal <a href="https://vinayjose.com/" target="_blank" rel="noreferrer">portfolio website & blog</a>  to learn frontend development.
