@@ -23,7 +23,9 @@ Some ideas to get started:
 
 - ⚙️I’m a Consultant ML Engineer at Mercedes-Benz RDI, Bangalore.
 
-- ⚡Deep-diving into Gen AI & RAG Systems.
+- ⚡Expert in Gen AI & RAG Systems.
+  
+- 🌱 Learning Dialog Engineering - a new software development paradigm from Answer.ai
 
 <!--
 - 🔭Working on a personal <a href="https://vinayjose.com/" target="_blank" rel="noreferrer">portfolio website & blog</a>  to learn frontend development.
