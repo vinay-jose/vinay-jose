@@ -18,7 +18,7 @@ Some ideas to get started:
 </div>  
   
 
-### <div align="center">I am K X Vinay Jose, a Software Engineer and an AI Practitioner.</div>  
+### <div align="center">I am K X Vinay Jose, an ML Engineer.</div>  
   
 
 - ⚙️I’m a Consultant ML Engineer at Mercedes-Benz RDI, Bangalore.
