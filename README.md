@@ -21,11 +21,11 @@ Some ideas to get started:
 ### <div align="center">I am K X Vinay Jose, an ML Engineer.</div>  
   
 
-- ⚙️I’m a Consultant ML Engineer at Mercedes-Benz RDI, Bangalore.
+- ⚙️I’m an ML Engineer at Mercedes-Benz RDI, Bangalore.
 
-- ⚡Expert in Gen AI & RAG Systems.
+- ⚡Expert in deep learning systems.
   
-- 🌱 Learning Dialog Engineering - a new software development paradigm from Answer.ai
+- 🌱 Learning about Physics Informed Neural Nets (PINN)
 
 <!--
 - 🔭Working on a personal <a href="https://vinayjose.com/" target="_blank" rel="noreferrer">portfolio website & blog</a>  to learn frontend development.
